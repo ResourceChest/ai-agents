@@ -77,18 +77,25 @@ A curated list of practical AI agents, agentic frameworks, and tools for develop
 - [**Building Effective Agents**](https://www.anthropic.com/engineering/building-effective-agents) — Anthropic's practical guide to agent architectures, covering workflows, tool use, and when to use autonomous agents vs. simpler patterns.
 - [**A Practical Guide to Building Agents**](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — OpenAI's guide covering agent design, orchestration patterns, and guardrails for production deployments.
 
----
-
-## More from ResourceChest
-
-Explore our other curated collections:
-
-| Repository | Description |
-|---|---|
+---|---|
 | [Chrome Privacy Extensions](https://github.com/ResourceChest/chrome-privacy-extensions) | Curated list of Chrome extensions for privacy and security |
 | [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
 
 > Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
+
+---
+
+## More from ResourceChest
+
+| Repository | Description |
+|:--------|:------|
+| [Chrome Privacy Extensions](https://github.com/ResourceChest/chrome-privacy-extensions) | Curated Chrome extensions for privacy and security |
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs with ratings |
+| [FinOps Tools](https://github.com/ResourceChest/finops-tools) | Vendor-neutral tools for cloud cost optimization |
+| [Local-First Tools](https://github.com/ResourceChest/local-first-tools) | Local-first, offline-capable, privacy-respecting tools |
+| [Dev Tools (No Signup)](https://github.com/ResourceChest/dev-tools-no-signup) | Free developer tools that work instantly without an account |
+
+> **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
 ---
 
