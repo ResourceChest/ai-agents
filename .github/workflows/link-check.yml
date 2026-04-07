@@ -1,0 +1,21 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --accept 200,204,301,302,429 --exclude-mail --timeout 30 '**/*.md'
+          fail: true
+          jobSummary: true
