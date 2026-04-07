@@ -1,4 +1,4 @@
-# Awesome AI Agents
+# AI Agents
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ResourceChest/ai-agents)](https://github.com/ResourceChest/ai-agents/stargazers)
