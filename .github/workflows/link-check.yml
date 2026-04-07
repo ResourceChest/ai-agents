@@ -6,6 +6,7 @@ on:
   push:
     branches: [main]
   pull_request:
+  workflow_dispatch:
 
 jobs:
   link-check:
@@ -16,6 +17,5 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --accept 200,204,301,302,429 --exclude-mail --timeout 30 '**/*.md'
+          args: --accept 200,204,301,302,429 --timeout 30 '**/*.md'
           fail: true
-          jobSummary: true
