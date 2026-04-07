@@ -1,9 +1,9 @@
 # Awesome AI Agents
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/awesome-ai-agents)](https://github.com/ResourceChest/awesome-ai-agents/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/ai-agents)](https://github.com/ResourceChest/ai-agents/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
-[![Link Check](https://github.com/ResourceChest/awesome-ai-agents/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/awesome-ai-agents/actions/workflows/link-check.yml)
+[![Link Check](https://github.com/ResourceChest/ai-agents/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/ai-agents/actions/workflows/link-check.yml)
 
 A curated list of practical AI agents, agentic frameworks, and tools for developers and power users. This list focuses on tools you can actually use today to build, automate, and ship — not research papers or vaporware.
 
