@@ -1,7 +1,8 @@
 # AI Agents
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ResourceChest/ai-agents)](https://github.com/ResourceChest/ai-agents/stargazers)
+[![License: MIT](https://img.shields.io/github/license/ResourceChest/ai-agents)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/ai-agents)](https://github.com/ResourceChest/ai-agents/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/ResourceChest/ai-agents)](https://github.com/ResourceChest/ai-agents/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
 [![Link Check](https://github.com/ResourceChest/ai-agents/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/ai-agents/actions/workflows/link-check.yml)
 
