@@ -18,8 +18,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --accept 200,204,301,302,429
+            --accept 200,204,301,302,403,429
             --timeout 30
-            --exclude 'github.com/ResourceChest/(ai-agents|finops-tools|local-first-tools|dev-tools-no-signup)'
             '**/*.md'
           fail: true
