@@ -87,6 +87,7 @@ A curated list of practical AI agents, agentic frameworks, and tools for develop
 | [FinOps Tools](https://github.com/ResourceChest/finops-tools) | Vendor-neutral tools for cloud cost optimization |
 | [Local-First Tools](https://github.com/ResourceChest/local-first-tools) | Local-first, offline-capable, privacy-respecting tools |
 | [Dev Tools (No Signup)](https://github.com/ResourceChest/dev-tools-no-signup) | Free developer tools that work instantly without an account |
+| [AI & LLM Papers](https://github.com/ResourceChest/ai-llm-papers) | Foundational and frontier AI/LLM research papers reading list |
 
 > **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
