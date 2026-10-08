@@ -71,6 +71,8 @@ A curated list of practical AI agents, agentic frameworks, and tools for develop
 - [**Open WebUI**](https://github.com/open-webui/open-webui) — Self-hosted web interface for LLMs with support for Ollama, OpenAI-compatible APIs, and multi-user setups.
 - [**LocalAI**](https://github.com/mudler/LocalAI) — Drop-in replacement for the OpenAI API that runs models locally on consumer hardware without a GPU.
 - [**GPT4All**](https://github.com/nomic-ai/gpt4all) — Desktop application by Nomic AI for running local LLMs privately with no data leaving your device.
+- [**Tale**](https://github.com/tale-project/tale) — Self-hosted project workspace for coding-agent task delegation, persistent sandboxes, and shared review of reports and deliverables.
+
 
 ## Guides & Patterns
 
